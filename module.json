@@ -1,0 +1,32 @@
+{
+  "id": "rogue-sneak-checkbox",
+  "title": "Rogue Sneak Checkbox",
+  "description": "Ajoute une case Attaque sournoise dans la fenêtre d'attaque.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Toi"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system"
+      }
+    ],
+    "requires": [
+      {
+        "id": "midi-qol",
+        "type": "module"
+      }
+    ]
+  },
+  "scripts": [
+    "scripts/sneak-checkbox.js"
+  ]
+}
