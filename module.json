@@ -1,8 +1,8 @@
 {
-  "id": "rogue-sneak-checkbox",
+  "id": "rogue-sneak-checkboxv2",
   "title": "Rogue Sneak Checkbox",
   "description": "Ajoute une case Attaque sournoise dans la fenêtre d'attaque.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Toi"
