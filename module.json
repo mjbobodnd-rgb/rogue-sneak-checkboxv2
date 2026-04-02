@@ -28,5 +28,7 @@
   },
   "scripts": [
     "scripts/sneak-checkbox.js"
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/mjbobodnd-rgb/rogue-sneak-checkboxv2/main/module.json",
+  "download": "https://github.com/mjbobodnd-rgb/rogue-sneak-checkboxv2/archive/refs/heads/main.zip"
 }
